@@ -1,2 +1,2 @@
-# Data-Science-Bootcamp
-Code and notes from data science and machine learning bootcamp course from Udemy
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
